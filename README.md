@@ -6,6 +6,4 @@ The order in which the files should be open is:
 2. machineLearningAlgorithm.ipynb
 3. graphicResultsOfMLA.ipynb
 
-The folder "data" contains the data used.
-
-The file "trees_model1.ipynb" should be ignored. It is supposed to be deleted.
+The folder "data" contains the data used which was retrieved from https://www.kaggle.com/jolasa/waves-measuring-buoys-data-mooloolaba
