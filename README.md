@@ -1,5 +1,5 @@
 # BEDU-Data-Analysis
-Derivable product of the Data Analysis bootcamp I took with BEDU in MAY-OCT 2020.
+Derivable product of the Data Analysis bootcamp I took with BEDU during MAY-OCT 2020.
 
 The order in which the files should be open is:
 1. exploratoryDataAnalysis.ipynb
